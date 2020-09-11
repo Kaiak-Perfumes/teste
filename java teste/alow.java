@@ -11,7 +11,7 @@ public class alow {
         Scanner z = new Scanner(System.in);
         String pass = z.next();
         
-        if (teste.equals ("kaianmesquita119") && pass.equals ("K87511822k")){
+        if (teste.equals ("kaianmesquita119") && pass.equals ("123456789")){
             System.out.println("Bem-vindo, " + teste);
             System.out.println("Deseja acessar configurações da conta?");
             String acesso = y.next();
