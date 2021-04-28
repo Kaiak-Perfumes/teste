@@ -18,7 +18,7 @@ public class alow {
             if(acesso.equals("sim")){
                 System.out.println("Então vai toma no cukkkkk");
             }else{
-                System.out.println("GAYKKKKK");
+                System.out.println("BELEZKKKKKKKKK");
             
             }
         }else{
